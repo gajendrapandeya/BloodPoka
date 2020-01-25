@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "378020275947",
+    "firebase_url": "https://bloodpoka.firebaseio.com",
+    "project_id": "bloodpoka",
+    "storage_bucket": "bloodpoka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378020275947:android:7260bb58f2fe9c491d40ae",
+        "android_client_info": {
+          "package_name": "com.codermonkeys.bloodpoka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378020275947-71q1q5odvtk58eiu6bjtid5ftjfdpo8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codermonkeys.bloodpoka",
+            "certificate_hash": "3cc7bfe5368484b8651a88ac2d69e4c80c8dcc8d"
+          }
+        },
+        {
+          "client_id": "378020275947-0senc6qeeg6h5a4sbj5sc3l27sat7pp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKuehm9G2xpvHBRpnSts7_RXSfmwfv1vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378020275947-0senc6qeeg6h5a4sbj5sc3l27sat7pp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

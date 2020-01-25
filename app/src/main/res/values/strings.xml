@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BloodPoka</string>
+    <string name="app_full_name">Blood Poka</string>
+    <string name="a_life_may_depend_on_a_gesture_from_your_bottole_of_blood">A life may depend on a gesture from your bottole of blood</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="signup">SignUp</string>
+    <string name="name">Name</string>
+    <string-array name="array">
+        <item>Ashish Bhatta</item>
+        <item>Dhangadhi</item>
+        <item>Bernhack</item>
+        <item>Bafal</item>
+        <item>Dikshya Gywali</item>
+        <item>Kupondole</item>
+        <item>Dipak Bhandari</item>
+        <item>Kathmandu</item>
+        <item>Gajendra Pandeya</item>
+        <item>Bhatapur</item>
+        <item>Manish</item>
+        <item>Patan</item>
+        <item>Rajesh Dae</item>
+        <item>Himal Pahad</item>
+        <item>Samyog Shrestha</item>
+        <item>Janakpur</item>
+        <item>Umesh Shahi</item>
+        <item>Gatthaghar</item>
+        <item>Virat Kohli</item>
+        <item>Dhangadhi</item>
+
+    </string-array>
+</resources>
